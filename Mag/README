@@ -1,3 +1,1 @@
-This is a tutorial project for getting started with Sesame, Apache Maven, and Eclipse. The accompanying tutorial can be found at:
-
-  http://openrdf.callimachus.net/sesame/tutorials/getting-started.docbook?view
+This code stores ontologies in MongoDB and Cassandra and query ontologies using SPARQL
